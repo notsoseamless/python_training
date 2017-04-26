@@ -1,0 +1,63 @@
+
+
+Blue pen
+
+top
+   cement
+   add_tiles
+   flash
+   plaster
+   paint
+
+c_Dave
+
+Shd alm+neon+vid
+
+nw_points
+
+book car
+
+pro-outlays
+–az 6k + TCs?? 
+–d&s 6k + 1k
+
+14/15 accs
+
+dead diachloric
+nbr-plate
+
+Aus_list:
+   settlement  date: 4/8/15
+   met_bnk + aus cards
+   
+
+
+
+
+c/o http://hp15c.com/
+
+
+Velo-SE249HE
+
+rsync -zurv ~ --exclude=*~ --delete  /cygdrive/c/Users/tz2718/oldman/BACKUPS/HOME
+rsync -ae ssh source/ username@remotemachine.com:/path/to/destination/
+
+
+===============================================
+I = 11257484
+P = bvVfdWE6Tx 
+
+Loyd's Fifteen puzzle - http://www.codeskulptor.org/#user40_OycLCmXtj4_7.py
+Unit tests:
+http://www.codeskulptor.org/#user40_OycLCmXtj4_9.py
+
+
+Solitaire Tantrix - http://www.codeskulptor.org/#user40_VzHKAQEY99_0.py
+Mini-max-ttt - http://www.codeskulptor.org/#user40_7NOrwY03mX_1.py
+WordWrangler - http://www.codeskulptor.org/#user40_HYLVwCJ61p_15.py
+Zombie - http://www.codeskulptor.org/#user40_efp12YyBrC_0.py
+
+
+
+
+
